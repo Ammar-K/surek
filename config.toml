@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
@@ -43,13 +43,13 @@ theme = "timer-hugo"
         description = "Weather you want to brain storm and your own mind map or explore completed mind maps, Sure'K is the way to go"
         btn     = true
         btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = ""
         [[params.banner.flipText]]
             title   = "Brain Storming App"
         [[params.banner.flipText]]
             title   = "Mind Mapping Tool"
         [[params.banner.flipText]]
-            title   = "Study Card"
+            title   = "Study Cards"
 
     # Homepage About Section
     [params.about]
