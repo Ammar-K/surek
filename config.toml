@@ -39,23 +39,28 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HI, This is Sure'K and i'm a"
+        heading = "HI, This is 'VALUE GUIDE' and we do"
         description = "Weather you want to brain storm and your own mind map or explore completed mind maps, Sure'K is the way to go"
         btn     = true
         btnText = "Download More"
         btnURL  = ""
         [[params.banner.flipText]]
-            title   = "Brain Storming App"
+            title   = "Reliabiltiy Analytics"
         [[params.banner.flipText]]
-            title   = "Mind Mapping Tool"
+            title   = "Maximize your plants Availabilty"
         [[params.banner.flipText]]
-            title   = "Study Cards"
+            title   = "Reliability Training"
+        [[params.banner.flipText]]
+            title   = "Risk Discovery"
+        [[params.banner.flipText]]
+            title   = "Risk Visualization"
+            
 
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "ABOUT US"
+        content = "We are a Saudi company developing data analytics specifically for the manufacturing and whether you're looking for plant availability, reliability or safety improvement, Value Guide is the solution to unleash your data hidden value"
         image   = "images/about/about.jpg"
 
     # Call to Action
@@ -63,14 +68,14 @@ theme = "timer-hugo"
         enable  = true
         title   = "SO WHAT YOU THINK ?"
         content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        btnText = "Contact with us"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
         title   = "Latest Works"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+        subtitle= "You ccan see samples of our work here"
 
     # Feature Product Section
     [params.featureProduct]
