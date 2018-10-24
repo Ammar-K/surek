@@ -1,14 +1,14 @@
 ---
-title: "Bottle Mockup"
+title: "Risk Matrix"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
-caption: Product Mockup
-image: images/portfolio/item-2.jpg
-category: ["mockup","design"]
-liveLink: https://www.themefisher.com
-client: Julia Robertson
+caption: Dynamic Matrix
+image: images/portfolio/item-2.gif
+category: ["visualization","safety"]
+liveLink: 
+client: 
 submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+location: 
 ---
 ### Consectur in Bibendum
 

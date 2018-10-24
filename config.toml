@@ -32,7 +32,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/surek.png"
+    logo = "images/templogo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section

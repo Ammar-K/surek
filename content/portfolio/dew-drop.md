@@ -1,14 +1,14 @@
 ---
-title: "Dew Drop"
+title: "Performance Killers"
 type: portfolio
 date: 2018-07-12T16:53:54+06:00
-caption: Redesigns UI Concept
-image: images/portfolio/item-1.jpg
-category: ["typography","letters"]
-liveLink: https://www.themefisher.com
-client: Julia Robertson
+caption: Where your availabity leaks?
+image: images/portfolio/item-1.gif
+category: ["visualization","Availability"]
+liveLink: 
+client: 
 submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+location:
 ---
 ### Consectur in Bibendum
 
