@@ -2,7 +2,7 @@
 title: "Performance Killers"
 type: portfolio
 date: 2018-07-12T16:53:54+06:00
-caption: Where your availabity leaks?
+caption: Where your availability leaks?
 image: images/portfolio/item-1.gif
 category: ["visualization","Availability"]
 liveLink: 
@@ -10,7 +10,7 @@ client:
 submitDate: November 20, 2017
 location:
 ---
-### Consectur in Bibendum
+### Where do the availabilty go ?
 
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
