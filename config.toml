@@ -2,8 +2,10 @@ baseURL = "https://valueguide.tech/"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
 
 # Site Menus
 [menu]
