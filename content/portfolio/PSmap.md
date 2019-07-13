@@ -1,14 +1,11 @@
 ---
-title: "Table Design"
+title: "PSmap"
 type: portfolio
-date: 2018-07-12T16:56:54+06:00
-caption: 3D Model Design
-image: images/portfolio/item-3.jpg
-category: ["3d-model","product"]
-liveLink: https://www.themefisher.com
-client: Julia Robertson
-submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+date: 2018-07-12T16:57:54+06:00
+caption: Problem Solving app
+image: images/portfolio/item-4.png
+category: ["App","Problem Solving"]
+liveLink: 
 ---
 ### Consectur in Bibendum
 

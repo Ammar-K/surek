@@ -1,14 +1,11 @@
 ---
-title: "Makeup Element"
+title: "Sure'K App"
 type: portfolio
-date: 2018-07-12T16:57:54+06:00
-caption: Fashion Design
-image: images/portfolio/item-4.jpg
-category: ["fashion","package"]
-liveLink: https://www.themefisher.com
-client: Julia Robertson
-submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+date: 2018-07-12T16:56:54+06:00
+caption: Brain Storming mobile app
+image: images/portfolio/item-3.jpg
+category: ["product"]
+liveLink: https://apps.apple.com/in/app/surek/id1375365540
 ---
 ### Consectur in Bibendum
 

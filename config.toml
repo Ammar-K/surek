@@ -1,6 +1,6 @@
 baseURL = "https://valueguide.tech/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Value Guide | Reliable Soultions"
 theme = "timer-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
