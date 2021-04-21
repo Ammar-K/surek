@@ -1,13 +1,10 @@
 ---
-title: "Reliability Analysis"
+title: "Water Analysis"
 type: portfolio
-date: 2018-07-12T16:59:54+06:00
-caption: 
-image: images/portfolio/item-6.jpg
-category: ["product","mockup","design"]
-liveLink: 
-client: 
-submitDate:
+date: 2018-07-12T16:56:54+06:00
+caption: Durov and Piper Analysis
+image: images/portfolio/Durov.png
+category: ["product"]
 ---
 ### Consectur in Bibendum
 
