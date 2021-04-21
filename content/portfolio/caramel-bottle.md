@@ -1,7 +1,7 @@
 ---
 title: "Reliability Analysis"
 type: portfolio
-date: 2018-07-12T16:59:54+06:00
+date: 2020-07-12T16:59:54+06:00
 caption: 
 image: images/portfolio/item-6.jpg
 category: ["product","mockup","design"]
